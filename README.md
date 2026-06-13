@@ -11,6 +11,18 @@ https://github.com/user-attachments/assets/eb34593d-9348-4055-ada0-b9fb68e0233e
 
 # ScreenShots
 
+### Home Page
+![Home Page](home.png)
+
+### About Page
+![About Page](about.png)
+
+### Live Prediction
+![Prediction](prediction.png)
+
+### Pollution Dashboard
+![Dashboard](dashboard.png)
+
 How to Run this Project:- 
 Step by Step commands :-
 ---------------------------------
