@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/eb34593d-9348-4055-ada0-b9fb68e0233e
 ![Home Page](Screenshot_2026-06-13-23-46-53-95_dd712f7e47b9dd52027061ca0025c1ae.jpg)
 
 ### About Page
-![About Page](about.png)
+![About Page](Screenshot_2026-06-13-23-47-13-28_dd712f7e47b9dd52027061ca0025c1ae.jpg)
 
 ### Live Prediction
 ![Prediction](prediction.png)
