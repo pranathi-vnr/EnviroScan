@@ -1,4 +1,4 @@
-# EnviroScan-AI-Powered-Team-6 
+# EnviroScan: AI-Powered Environmental Risk Assessment and Analytics Platform
 
 # Website URL (Deployment link):
 
