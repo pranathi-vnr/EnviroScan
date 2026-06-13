@@ -1,5 +1,7 @@
 # EnviroScan: Environmental Risk Prediction Using Machine Learning
 
+EnviroScan is a machine learning-based platform that predicts pollution sources and environmental risks using geospatial and air-quality data. The system leverages XGBoost and Scikit-learn models and provides interactive visualizations through a Streamlit dashboard.
+
 # Website URL (Deployment link):
 
 https://enviroscanapp.streamlit.app/
