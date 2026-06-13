@@ -1,4 +1,4 @@
-# EnviroScan: AI-Powered Environmental Risk Assessment and Analytics Platform
+#EnviroScan: Environmental Risk Prediction Using Machine Learning
 
 # Website URL (Deployment link):
 
