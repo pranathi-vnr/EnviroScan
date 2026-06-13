@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/eb34593d-9348-4055-ada0-b9fb68e0233e
 ![Prediction](Screenshot_2026-06-13-23-47-41-68_dd712f7e47b9dd52027061ca0025c1ae.jpg)
 
 ### Pollution Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot_2026-06-13-23-48-48-10_dd712f7e47b9dd52027061ca0025c1ae.jpg)
 
 How to Run this Project:- 
 Step by Step commands :-
